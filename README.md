@@ -1,5 +1,5 @@
 # Balloon Pop Maths #
-[Balloon Pop Maths Live Site](https://Nivethaa15.github.io/balloon-pop-maths/)  
+[Balloon Pop Maths Live Site](https://nivethaa15.github.io/balloon-pop-maths/)  
 
 <img src="./assets/testing/responsive/balloon-pop-maths-responsive.png" width="100%" style="margin: 15px;">
 
@@ -86,7 +86,7 @@ Item|Development Phase
 ----|-----------------
 Balloon Pop Multiplication game|1
 Contact Form to contact developer|1
-Link to developer [GitHub](https://github.com/richardhenyash) page|1
+Link to developer [GitHub](https://github.com/nivethaa15) page|1
 Balloon Pop Division game|1
 Balloon Pop Addition game|1
 Balloon Pop Subtraction game|1
@@ -446,7 +446,7 @@ $ git clone https://github.com/richardhenyash/balloon-pop-maths
 * Press Enter to create the local clone.
 
 The code may also be downloaded to a local computer by following these steps:
-* Go to the [Project Code Repository Location](https://github.com/richardhenyash/balloon-pop-maths) on [GitHub](https://github.com/).
+* Go to the [Project Code Repository Location](https://github.com/Nivethaa15/maths-pop-game) on [GitHub](https://github.com/).
 * Select the "Code" dropdown and choose the "Download ZIP" option.
 * This will download a copy of the entire project locally as a .zip file.  
 
